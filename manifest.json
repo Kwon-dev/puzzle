@@ -1,11 +1,11 @@
 {
-    "name": "Puzzle",
-    "short_name": "Puzzle",
+    "name": "num_puzzle",
+    "short_name": "num_puzzle",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A simple puzzle game.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
